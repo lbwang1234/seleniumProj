@@ -1,3 +1,2 @@
-nihao
-haha
-heihei xiagai
+#web自动化测试
+#使用selenium和testng实现网页购买下单自动化测试
